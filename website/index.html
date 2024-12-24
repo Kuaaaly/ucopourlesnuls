@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ucopourlesnuls</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#uco-pour-les-nuls">UCO pour les nuls</a>
+<ul>
+<li><a href="#préambule">Préambule</a></li>
+<li><a href="#liens-utiles">Liens utiles</a></li>
+<li><a href="#vocabulaire-indispensable">Vocabulaire indispensable</a></li>
+<li><a href="#archethic">Archethic</a>
+<ul>
+<li><a href="#pré-ambule">Pré-ambule</a></li>
+<li><a href="#aewallet">aeWallet</a></li>
+<li><a href="#aeswap">aeSwap</a></li>
+<li><a href="#aebridge">aeBridge</a></li>
+<li><a href="#migration">Migration</a></li>
+</ul>
+</li>
+<li><a href="#sinvestir">S’investir</a>
+<ul>
+<li><a href="#apprendre-comprendre-et-expliquer">Apprendre, comprendre et expliquer</a></li>
+<li><a href="#construire-dans-lécosystème">Construire dans l’écosystème</a></li>
+<li><a href="#d€-à-uco">D’€ à UCO</a></li>
+<li><a href="#farming">Farming</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="uco-pour-les-nuls">UCO pour les nuls</h1>
+<blockquote>
+<p><strong>Dernière mise à jour 24/10/2024</strong></p>
+<ul>
+<li>Refonte partie “<strong>d’€ à UCO</strong>” (<a href="archives.html#d€-à-uco" target="_blank">archivage</a> de l’ancienne)</li>
+<li>Quelques correction mineures.</li>
+</ul>
+<p><strong>Mise à jour le 09/10/2024</strong></p>
+<ul>
+<li>Ajout de la section “Migration”</li>
+<li>Ajout d’une page <a href="archives.html">d’archives</a></li>
+<li>Section “Sortir de Zebitex” archivée</li>
+<li>Relecture complète &amp; mise à jour des liens pour tenir compte des évolutions de l’écosystème.</li>
+</ul>
+</blockquote>
+<h2 id="préambule">Préambule</h2>
+<p><em>Ce guide n’est pas un guide officiel Archethic. Les guides officiels se trouvent dans le <a href="https://wiki.archethic.net/" target="_blank">Knowledge Center</a> d’Archethic.</em></p>
+<p>Ce guide existe car les ressources Archethic officielles actuellement à disposition sont principalement rédigées en anglais et cela peut-être bloquant pour les personnes ne parlant pas l’anglais. De plus, ce guide pourrait servir de <strong>base de connaissance / référence au sein du Telegram Archethic FR</strong> pour répondre à des questions fréquemment posées.</p>
+<p>Pour couronner le tout, ce guide est hébergé sur le mainnet d’Archethic ! Sachez que chaque mise à jour de ce guide coûte quelques UCO.</p>
+<p>Les objectifs de ce guide sont au nombre de 3 :</p>
+<ul>
+<li>Vous donner <strong>les bases de la finance décentralisée (DeFi)</strong>. Notion indispensable pour comprendre l’écosystème Archethic.</li>
+<li>Vous présenter de manière globale l’<strong>écosystème Archethic</strong> et ce qui s’y passe actuellement.</li>
+<li>Enfin, vous partager des notions pratiques vous permettant notamment d’<strong>investir et de s’investir dans Archethic de manière autonome</strong> en respectant des bonnes pratiques.</li>
+</ul>
+<h2 id="liens-utiles">Liens utiles</h2>
+<ul>
+<li><a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">Tableau de bord farming</a> (par @stoik25)</li>
+<li><a href="https://www.youtube.com/@UniversArchethic-rv6oe" target="_blank">Chaîne YouTube “Univers Archethic”</a> (par Arnolito)</li>
+<li><a href="https://www.archethic.net/wallet.html" target="_blank">aeWallet</a> - <a href="https://swap.archethic.net/swap" target="_blank">aeSwap</a> - <a href="https://bridge.archethic.net/bridge" target="_blank">aeBridge</a> - <a href="https://migration-uco.archethic.net/" target="_blank">Migration UCO v1 vers v2</a> - <a href="https://swap.archethic.net/earn" target="_blank">Farming</a> (outils officiels Archethic)</li>
+</ul>
+<h2 id="vocabulaire-indispensable">Vocabulaire indispensable</h2>
+<ul>
+<li>
+<p><strong>Smart Contract</strong> : en français, contrats intelligents. Vous pouvez imaginer que certaines blockchains sont d’énormes ordinateurs. <strong>Les smarts contracts sont simplement des logiciels sur ces ordinateurs, visibles et utilisables par tous.</strong> Toutes les blockchains ne permettent pas de déployer des smart contracts. Ethereum est la blockchain la plus connue qui permet de le faire, Archethic supporte également les smart contracts. <strong>Tous les outils de la DeFi sont basés sur des smart contracts</strong> (DEX, bridge, etc).</p>
+</li>
+<li>
+<p><strong>DeFi</strong> (<strong>De</strong>centralized <strong>Fi</strong>nance) : ce terme vient de l’anglais et signifie <strong>fi</strong>nance <strong>dé</strong>centralisée. Le principe est simple, échanger de la valeur sans intermédiaire de confiance. Concrètement : se passer des banques ou des plateformes d’échanges centralisées. <strong>Ce sont donc des smart contracts qui orchestrent l’écosystème DeFi</strong>.</p>
+</li>
+<li>
+<p><strong>CEX</strong> (<strong>C</strong>entralized <strong>Ex</strong>change) : aussi appelés échanges centralisés ou parfois brokers. Les CEX sont des plateformes <strong>mises en place et maintenues par des entreprises</strong>. Ces plateformes (accessibles via un site internet ou une application mobile en général) vous permettent principalement d’échanger des cryptomonnaies. Quand vous “possédez” des cryptomonnaies sur un CEX, <strong>vous ne les possédez pas réellement</strong> : les administrateurs du CEX les possèdent. Ils sont les seuls à en détenir les clés privées. D’où l’adage bien connu <strong>“not your keys not your crypto”</strong>. Il y a beaucoup à dire sur les CEX, nous y reviendrons peut-être plus tard. Binance, Coinbase ou encore Kraken sont des exemples de CEX.</p>
+</li>
+<li>
+<p><strong>DEX</strong> (<strong>D</strong>ecentralized <strong>Ex</strong>change) : en opposition aux CEX, il s’agit de plateforme d’échange dont le fonctionnement est régi par des smart contracts, donc de manière décentralisée. Quand vous interagissez avec des DEX, <strong>vous êtes donc seul maître à bord et propriétaire de vos fonds</strong>. <strong><a href="https://app.uniswap.org/pool" target="_blank">Uniswap</a></strong> est le DEX le plus utilisé “côté” Ethereum. <strong><a href="https://raydium.io/liquidity-pools/" target="_blank">Raydium</a></strong> est son homologue sur Solana.</p>
+</li>
+<li>
+<p><strong>Hot wallet</strong> : en tant qu’utilisateur de la DeFi vous aurez nécessairement besoin d’un portefeuille. Un hot wallet est un portefeuille qui se présente sous forme de <strong>logiciel que vous exécutez localement sur votre téléphone ou sur votre ordinateur (application, extension de navigateur)</strong>. Ce dernier vous permet notamment d’approuver les transactions permettant de gérer vos cryptomonnaies. Nous reviendrons plus en détail sur cet aspect dans la partie écosystème. <a href="https://rabby.io/" target="_blank">Rabby</a> et <a href="https://metamask.io/" target="_blank">MetaMask</a> sont les 2 wallets les plus populaires compatibles avec la blockchain Ethereum (et ses différentes variantes, dites <strong>blockchains EVM</strong>). Les <strong>hot wallets ne sont pas les seuls wallet existants</strong> mais ce sont eux qui vont nous intéresser dans ce guide pour leur facilité d’utilisation et leur gratuité.</p>
+</li>
+<li>
+<p><strong>Swap</strong> :</p>
+<ul>
+<li>Fonctionnellement : swap veut dire “<strong>échanger</strong>”. “Swap” est donc l’<strong>action d’échanger une cryptomonnaie X pour une cryptomonnaie Y</strong>. Il s’agit d’un outil fondamental de la <strong>DeFi</strong>.</li>
+<li>Techniquement : une plateforme de swap (que j’appelerai <strong>swapper</strong>) va vous permettre d’<strong>interagir avec plusieurs DEX afin d’optimiser un échange</strong>. <a href="https://app.1inch.io/#/1/simple/swap/ETH" target="_blank">1inch</a> et <a href="https://www.odos.xyz/" target="_blank">Odos</a> sont des swappers côté Ethereum, <a href="https://jup.ag/" target="_blank">Jupiter</a> est un swapper côté Solana. La plupart des DEX ont en général leur propre swapper, c’est le cas d’Uniswap et de Raydium, mais ces derniers sont rarement optimisés (car ils ne se basent que sur leur propres pools de liquidités). D’où l’intérêt d’utiliser un swapper qui agrège plusieurs DEX comme <a href="https://www.odos.xyz/" target="_blank">Odos</a>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Swap aggregator</strong> : il s’agit d’un agrégateur de swappers. Les swappers agrègent les DEX et les <strong>swap aggregators</strong> agrègent les swappers. Cela vous permet de bénéficier du <strong>meilleur taux parmi tous les swappers pris en charge par l’agrégateur</strong>. Oui ça commence à devenir compliqué mais rassurez vous c’est le dernier niveau. L’outil le plus connu et le plus utilisé est <a href="https://swap.defillama.com/?chain=polygon&amp;from=0x0000000000000000000000000000000000000000&amp;tab=swap" target="_blank">LlamaSwap</a>, régulièrement mentionné sur le Telegram.</p>
+</li>
+<li>
+<p><strong>Bridge</strong> : il s’agit de <strong>passer d’une cryptomonnaie X d’une blockchain A à une cryptomonnaie X’ d’une valeur équivalente sur une blockchain B</strong>. Un exemple très concret de la vie de tous les jours : <strong>au casino, vous donnez 100€ en liquide à l’entrée, le guichetier vous donne 100 jetons ayant une valeur de 1€</strong>. Vous avez effectué un bridge. Vous pouvez jouer avec ces jetons dans le casino. Quand vous partez, vous repassez au guichet pour échanger vos jetons contre des €, vous effectuez donc un bridge dans l’autre sens (sauf si le guichetier est parti avec la caisse entre-temps). En crypto c’est exactement la même chose. <a href="https://v2.across.to/bridge" target="_blank">Across</a> est un exemple de bridge.</p>
+</li>
+<li>
+<p><strong>Bridge aggregator</strong> : à l’instar des swappers, il existe aussi des agrégateurs pour les bridges. Ces derniers <strong>permettent d’agréger à la fois les bridges et les swappers</strong> vous permettant ainsi de passer d’une cryptomonnaie X sur une blockchain A à une cryptomonnaie Y sur une blockchain B et ce de manière optimisée à l’instant T. <a href="https://app.rango.exchange/bridge" target="_blank">Rango</a> et <a href="https://jumper.exchange/fr/" target="_blank">Jumper</a> sont les agrégateurs les plus souvent mis en avant.</p>
+</li>
+<li>
+<p><strong>Coin vs token</strong> : <strong>un coin est la pièce native d’un réseau</strong> et permet de financer, entre autres, les transactions sur ce réseau (BTC est le coin de Bitcoin, ETH est le coin d’Ethereum et UCO est le coin d’Archethic). <strong>Un token est une représentation de valeur régie par un smart contract sur une blockchain</strong> (sur Ethereum, on parle de token ERC20). À cet égard, les <strong>UCO</strong> sur Polygon, BSC et Ethereum sont des tokens, le <strong>WETH</strong> sur Polygon et l’<strong>aeETH</strong>  sur Archethic sont également des tokens. <strong>Les tokens ont une valeur et une utilité seulement parce qu’un smart contract leur en donne</strong>. Pensez de nouveau à l’analogie du casino citée précédemment : si vous retournez au guichet et que le casino n’accepte pas d’échanger vos 100 jetons contre 100€, je vous mets au défi d’aller payer vos courses de la semaine avec les jetons ! <strong>Une cryptomonnaie est soit un coin soit un token (pièce vs. jetons)</strong>.</p>
+</li>
+</ul>
+<h2 id="archethic">Archethic</h2>
+<p>L’enjeu va être de taille dans cette partie ! Nous avons deux objectifs :</p>
+<ul>
+<li>Comprendre de quoi est constitué l’écosystème Archethic</li>
+<li>Apprendre à l’utiliser</li>
+</ul>
+<h3 id="pré-ambule">Pré-ambule</h3>
+<p>Nous parlons souvent de “la blockchain Archethic” et bien cette première notion est inexacte. <strong>Archethic n’est pas une blockchain</strong>. Archethic est une transaction chain. Je ne souhaite pas me risquer à la vulgarisation de cette partie technique car j’ai peur de faire des erreurs, je vous renvoie donc vers le <a href="https://wiki.archethic.net/learn/transaction-chain" target="_blank">centre de connaissance</a> d’Archethic (en anglais).</p>
+<p>Quoiqu’il en soit, sachez que dire “<strong>transaction chain</strong>” (abrégé TC) est techniquement exact. Dire “<strong>blockchain</strong>” (abrégé BC) est techniquement incorrect dans le cas d’Archethic mais <strong>est tout à fait compréhensible</strong>.</p>
+<p><strong>Un peu d’histoire indispensable</strong> : Archethic est un projet qui est initialement né sur la blockchain Ethereum. De ce fait, <strong>le UCO (le coin d’Archethic) est né sur Ethereum</strong> (sous forme de token ERC20 si vous avez bien suivi). C’est donc pour cette raison qu’il y a de nombreux détenteurs d’UCO ERC20 (nous aborderons plus tard l’aspect migration v1 / v2). Ce n’est que quelques années plus tard qu’Archethic a lancé son propre réseau (mainnet). Le UCO est devenu à ce moment là un coin natif. <strong>Un UCO en token ERC20 (sur un réseau de type Ethereum) ne peut pas être envoyé directement vers un wallet Archethic (et réciproquement)</strong>, cela est techniquement impossible. C’est pour cela que le bridge, aeBridge, existe. Pour permette aux détenteurs de UCO ERC20 de les bridger vers Archethic pour désormais posséder des UCO natifs (dit coins).</p>
+<p>Ce que nous appelons “outils” de l’écosystème Archethic sont des applications décentralisées (Dapps). Comme vous l’avez probablement deviné, <strong>le fonctionnement de ces applications est régi par des contrats intelligents</strong> eux-mêmes déployés sur la transaction chain Archethic.</p>
+<h3 id="aewallet">aeWallet</h3>
+<p>Vous pouvez considérer qu’<strong>un wallet est au web 3.0 ce qu’un compte utilisateur est au web 2.0</strong>. Sans compte sur le web 2.0, vous n’avez pas de boîte mail, pas d’espace client, etc. <strong>Sans wallet sur le web 3.0 vous ne pouvez pas utiliser les outils à disposition</strong>.</p>
+<p><strong><a href="https://www.archethic.net/wallet.html" target="_blank">aeWallet</a> est un portefeuille logiciel</strong> (aussi appelé <strong>hot wallet</strong> ou aussi <strong>soft wallet</strong>), il prend la forme d’une extension de votre navigateur, d’une application de smartphone ou d’ordinateur. Dans tous les cas, sa fonction est la même : vous permettre d’interagir sur le mainnet Archethic.</p>
+<p>Lorsque vous configurez aeWallet pour la première fois (quelque soit la plateforme), ce dernier va vous fournir une <strong>seed phrase</strong>. En français, nous pouvons traduire ce terme par <strong>graine</strong>. Cette graine est <strong>une suite de 24 mots</strong> et elle doit absolument :</p>
+<ol>
+<li>Rester privée, <strong>vous ne devez en aucun cas la partager</strong>. Quiconque a connaissance de votre seed phrase sera en mesure de restaurer votre wallet sur son appareil et donc d’accéder à vos fonds.</li>
+<li>Être très <strong>précieusement sauvegardée</strong>. Effectivement elle vous permet à vous aussi de restaurer votre wallet au cas où vous auriez un soucis avec l’appareil sur lequel vous l’aviez initialement configuré (casse, vol, perte).</li>
+</ol>
+<p>Une fois votre wallet installé et configuré, c’est avec ce dernier que vous pourrez effectuer (signer) des transactions et donc recevoir des fonds, en envoyer, déployer des contrats intelligents et utiliser des applications décentralisées sur Archethic.</p>
+<p>Il est important de noter qu’<strong>un même wallet peut-être utilisé sur plusieurs appareils physiques différents simultanément</strong>. C’est tout l’intérêt de la <strong>seed phrase</strong>. Vous pouvez avoir votre wallet sur n’importe quel appareil compatible dans le monde. <strong>Vos fonds ne sont pas associés à votre téléphone ou votre ordinateur mais bel et bien à votre seed phrase</strong> qui est en réalité un moyen cryptographique de détenir vos fonds sur la transaction chain.</p>
+<h3 id="aeswap">aeSwap</h3>
+<p><a href="https://swap.archethic.net/swap" target="_blank">aeSwap</a> rassemble 3 outils :</p>
+<ul>
+<li>Un swapper (onglet <a href="https://swap.archethic.net/swap" target="_blank">Swap</a>) qui vous permet d’échanger une cryptomonnaie X contre une cryptomonnaie Y au sein de l’écosystème.</li>
+<li>Des pools de liquidités (onglet <a href="https://swap.archethic.net/poolList" target="_blank">Pools</a>) qui vous permettent de mettre à disposition des liquidités au sein de l’écosystème.</li>
+<li>Du farming (onglet <a href="https://swap.archethic.net/earn" target="_blank">Earn</a>) qui vous permet de gagner des récompenses grâce à votre implication financière dans l’écosystème. Nous verrons plus en détail le sujet dans la <a href="#farming">partie farming</a>.</li>
+</ul>
+<p>Comme nous l’évoquions dans la section vocabulaire, un DEX a souvent sa propre interface de swap, aeSwap n’échappe pas à la règle. Si nous voulons être extrêmement précis au niveau des termes, <strong>un DEX est techniquement composé d’un système de pools de liquidités et d’un swapper qui utilise ces mêmes pools de liquidités</strong>. En ce sens, aeSwap est un DEX.</p>
+<h3 id="aebridge">aeBridge</h3>
+<p>Comme l’indique la section vocabulaire, un bridge permet de passer d’une cryptomonnaie X d’une blockchain A à une cryptomonnaie X’ de valeur équivalente sur une blockchain B. En l’occurence, <a href="https://bridge.archethic.net/bridge" target="_blank">aeBridge</a> permet de bridger les cryptomonnaies suivantes vers et depuis Archethic :</p>
+
+<table>
+<thead>
+<tr>
+<th>Blockchain destination / source</th>
+<th>Crypto</th>
+<th>Équivalent sur Archethic</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>BSC</td>
+<td>UCO - BTCB - WETH</td>
+<td>UCO - aeBTC - aeETH</td>
+</tr>
+<tr>
+<td>Polygon</td>
+<td>UCO - WBTC - WETH - EURe</td>
+<td>UCO - aeBTC - aeETH - aeEURe</td>
+</tr>
+<tr>
+<td>Ethereum</td>
+<td>UCO - EURe</td>
+<td>UCO - aeEURe</td>
+</tr>
+</tbody>
+</table><h3 id="migration">Migration</h3>
+<blockquote>
+<p><strong>Attention</strong> : <strong>le process de migration n’est ni un bridge, ni un swap</strong>, donc les outils tels que LlamaSwap ou Jumper n’ont rien à voir avec cette opération. La migration est simple et expliquée dans les paragraphes qui suivent.</p>
+</blockquote>
+<p>Le <strong>07/10/2024</strong>, l’équipe Archethic a mis à disposition un outil de migration du token UCO ERC20 historique (désormais surnommé <strong>UCO ERC20 v1</strong>) vers un nouveau token UCO ERC20 (surnommé <strong>UCO ERC20 v2</strong>). Les pages <a href="https://coinmarketcap.com/currencies/archethic/" target="_blank">CoinMarketCap</a> et <a href="https://www.coingecko.com/fr/pi%C3%A8ces/archethic" target="_blank">CoinGecko</a> sont correctement associées à ce nouveau token. Il faudra surement quelques jours pour qu’elles soient totalement à jour mais vous y retrouverez toutes les informations utiles (contrats, DEX, métriques).</p>
+<h4 id="pourquoi-léquipe-a-t-elle-créé-un-nouveau-token-">Pourquoi l’équipe a-t-elle créé un nouveau token ?</h4>
+<p>Les raisons sont données par la team, en anglais, sur le <a href="https://wiki.archethic.net/FAQ/migration-erc-token/" target="_blank">Wiki</a>. Pour ceux ne parlant pas anglais, voici les 2 raisons évoquées :</p>
+<ul>
+<li>Mise à jour des informations du token, notamment son nom et sa supply totale.</li>
+<li>Uniformisation du token ERC20 sur les 3 blockchains EVM (Ethereum, Polygon, BSC). Sans rentrer dans le détail : le token v2 disposera désormais de fonctionnalités équivalentes sur les différentes blockchains EVM ce qui facilitera certaines opérations.</li>
+</ul>
+<h4 id="quelques-questions--réponses-qui-reviennent-fréquemment">Quelques questions / réponses qui reviennent fréquemment</h4>
+<ul>
+<li><strong>J’ai mes UCO sur ProBit, dois-je faire quelque chose ?</strong>
+<ul>
+<li>Non. ProBit prendra en charge la migration sans action de votre part.</li>
+</ul>
+</li>
+<li><strong>J’ai des UCO ERC20 v1 dois-je les migrer ?</strong>
+<ul>
+<li>À terme, oui, car le token v1 a vocation à disparaître et il n’est plus liquide (difficilement échangeable) car les pools de liquidités ont été transférées vers le token v2. Quoiqu’il en soit, il n’y a pas d’urgence pour faire la migration donc prenez le temps de le faire prochainement, quand vous aurez la tête à cela.</li>
+</ul>
+</li>
+<li><strong>J’ai mes UCO sur aeWallet, dois-je faire la migration ?</strong>
+<ul>
+<li>Non. La notion de v1 / v2 n’existe pas sur le mainnet. <strong>Si vous avez vos UCO sur aeWallet il s’agit de UCO natif</strong> (coin) et non pas de token ERC20, il n’y a donc aucune action à faire. Si cela est flou, je vous invite à revoir la notion de <strong>coin vs token</strong> dans la section vocabulaire de ce guide.</li>
+</ul>
+</li>
+<li><strong>Puis-je bridger mes UCO ERC20 vers le mainnet Archethic ?</strong>
+<ul>
+<li>Oui, de la même manière qu’avant la migration, mais ces derniers doivent désormais (depuis le 07/10/2024) être des <strong>UCO ERC20 v2</strong>. Si vous avez des UCO ERC20 v1 vous devrez au préalable les migrer vers la v2.</li>
+</ul>
+</li>
+</ul>
+<h4 id="comment-migrer-mes-uco-erc20-v1-vers-la-v2">Comment migrer mes UCO ERC20 v1 vers la v2?</h4>
+<p>Si vous avez lu les 3 paragraphes précédents, vous aurez normalement compris que vous êtes concernés uniquement si vous avez des UCO ERC20 v1 sur votre propre wallet.</p>
+<p>Si tel est le cas, il vous suffit de vous rendre sur <a href="https://migration-uco.archethic.net/" target="_blank">la plateforme de migration officielle</a> d’Archethic, de <strong>connecter votre wallet EVM</strong> au site et de procéder à la migration. Cela se fait en quelques minutes et requiert la signature de 2 transactions : une 1ère qui approuve le nombre de tokens à migrer suivie d’une 2ème qui procède réellement à l’envoi pour les migrer.</p>
+<ul>
+<li><strong>Aucune commission n’est prélevée sur vos UCO migrés,</strong> il vous faudra en revanche payer les frais de transactions (gas fees) qui seront respectivement en BNB, POL ou ETH en fonction de votre réseau EVM (BSC, Polygon et Ethereum).</li>
+<li>De nombreuses méthodes de connexion pour votre wallet sont disponible sur le site de migration. Vous pourrez par exemple utiliser Rabby, Phantom ou bien Wallet Connect. À titre d’exemple (et car la question revient fréquemment) pour les utilisateurs Ledger : installez simplement l’extension Rabby, connectez votre Ledger à Rabby puis connectez vous avec Rabby sur le site de migration. Vous n’avez aucunement besoin d’envoyer vos UCO depuis votre wallet Ledger vers un hot wallet (comme MetaMask ou Rabby).</li>
+</ul>
+<h2 id="sinvestir">S’investir</h2>
+<p>Après tout ce blabla sur l’écosystème, vous avez normalement le bagage requis pour mettre les mains dedans. Alors allons-y !</p>
+<p>Premièrement, cette partie s’appelle “<strong>s’investir</strong>” et non pas “<strong>investir</strong>”, et c’est volontaire. Pourquoi cela ? Et bien parce que <strong>investir dans Archethic c’est commencer par s’investir dans les technologies décentralisées</strong>. Tout cela nécessite des recherches, de la réflexion, des efforts de compréhension, des échanges avec la communauté. Bref : du temps, et c’est exactement la différence entre <strong>investir</strong> et <strong>s’investir</strong>. Je vous garanti que n’importe qui peut le faire quelque soit son capital et son niveau de départ.</p>
+<h3 id="apprendre-comprendre-et-expliquer">Apprendre, comprendre et expliquer</h3>
+<p>C’est accessible à tout le monde et si vous avez lu ce guide jusqu’ici sachez que vous vous êtes déjà investis. <strong>Vous avez fait l’effort d’apprendre et de comprendre, et vous êtes désormais en mesure d’expliquer et de transmettre !</strong></p>
+<h3 id="construire-dans-lécosystème">Construire dans l’écosystème</h3>
+<p>Archethic est une technologie nouvelle, qui met à disposition des outils. Si vous êtes technophile, vous pouvez vous approprier ces outils pour <strong>concevoir vos propres applications décentralisées</strong>.</p>
+<p>Un exemple : <a href="https://dpix.app/" target="_blank">dPix</a> est une Dapp de type Pixel War développée sur Archethic.</p>
+<h3 id="d€-à-uco">D’€ à UCO</h3>
+<p>Il existe une <a href="archives.html#d€-à-uco" target="_blank">ancienne version</a> plus détaillée de cette partie. Je ne vous en conseille pas spécialement la lecture sauf si vous souhaitez avoir davantage de précisions techniques. <strong>La partie ci-après, nouvellement rédigée, est plus accessible pour les novices.</strong></p>
+<blockquote>
+<p><strong>Pré-requis :</strong></p>
+<ul>
+<li>aeWallet installé et configuré.</li>
+<li>Un wallet EVM installé et configuré : <a href="https://rabby.io/" target="_blank">Rabby</a> est recommandé.</li>
+<li>Process réalisé et testé sur ordinateur, probablement transposable à quelques détails près sur smartphone.</li>
+</ul>
+</blockquote>
+<h4 id="achat-depuis-un-cex">1. Achat depuis un CEX</h4>
+<p>Je ne vais pas rentrer dans le détail pour cette méthode car elle est simple Créez-vous un compte sur  <a href="https://www.mexc.com/" target="_blank">MEXC</a> ou sur  <a href="https://www.probit.com/" target="_blank">ProBit</a> alimentez ce dernier par la méthode de votre choix, puis <strong>achetez vos UCOs en ordre au marché ou en ordre limite</strong>. Une fois cela fait, je vous conseille vivement de les retirer vers votre propre wallet. Hot wallet ou cold wallet, à vous de choisir.</p>
+<h4 id="achat-depuis-un-dex">2. Achat depuis un DEX</h4>
+<blockquote>
+<p><strong>Rappel indispensable</strong> : en fonction du/des réseau(x) sur lesquels vous allez faire vos transactions, <strong>vous aurez des frais de transactions (gas fees) à payer (ETH, BNB, POL, UCO)</strong>. Il vous faut donc alimenter votre wallet en conséquence pour financer ces frais. Si vous ne comprenez pas ce que vous venez de lire c’est que vos connaissances en DeFi ne sont pas encore suffisantes. Je vous invite donc à faire de plus amples recherches avant de lire la suite.</p>
+</blockquote>
+<p>La page <a href="https://coinmarketcap.com/currencies/archethic/#Markets" target="_blank">CoinMarketCap</a> du UCO vous permet de voir rapidement où vous pouvez acheter du UCO. Il faut ajouter aeSwap à cette liste, car il n’est pas référencé. Vos <strong>4 options d’achat via des DEX</strong> (au moment de la rédaction de ce guide) sont donc les suivantes (les liens cliquables des paires ci-dessous vous emmène directement vers LlamaSwap):</p>
+<ol>
+<li>Sur la BSC via la paire <a href="https://swap.defillama.com/?chain=bsc&amp;from=0x55d398326f99059ff775485246999027b3197955&amp;to=0xf1e5bbd997501a8439619266A09a54b2b499eAA3" target="_blank">USDT/UCO</a></li>
+<li>Sur Polygon via la paire <a href="https://swap.defillama.com/?chain=polygon&amp;from=0x3c499c542cef5e3811e1192ce70d8cc03d5c3359&amp;to=0xaa53B93608C88EE55fAD8db4C504Fa20E52642aD" target="_blank">USDC/UCO</a></li>
+<li>Sur Ethereum via la paire <a href="https://swap.defillama.com/?chain=ethereum&amp;from=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&amp;to=0x1A688D3d294ee7BcC1f59011DE93d608Dc21c377" target="_blank">USDC/UCO</a></li>
+<li>Sur aeSwap via la paire <a href="https://swap.archethic.net/swap" target="_blank">aeETH/UCO</a> (lien non pré-configuré).</li>
+</ol>
+<ul>
+<li>Dans les cas 1, 2, 3 il s’agit d’un achat sur EVM (donc du token ERC20), au besoin vous pouvez configurer <a href="https://swap.defillama.com/" target="_blank">LlamaSwap</a> pour partir d’un token de départ différent (par exemple <a href="https://swap.defillama.com/?chain=polygon&amp;from=0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6&amp;tab=swap&amp;to=0xaa53B93608C88EE55fAD8db4C504Fa20E52642aD" target="_blank">l’EURe</a> si vous êtes un utilisateur de <a href="https://monerium.app/" target="_blank">Monerium</a>).</li>
+<li>Dans le cas 4, il vous faudra des aeETH pour réaliser le swap, pour cela vous devrez donc acheter des ETH sur la BSC, Polygon ou Ethereum et ensuite les <a href="https://bridge.archethic.net/bridge" target="_blank">bridger</a> vers le mainnet Archethic.</li>
+</ul>
+<p><img src="images/dex_options_cmc.png" alt="DEX options"></p>
+<h3 id="farming">Farming</h3>
+<p>Bon. Quand il faut y aller, il faut y aller. Pour commencer : qu’est ce que le farming ? Désolé de vous décevoir, mais en l’état, dans l’écosystème crypto, <strong>ce mot est un fourre-tout qui n’est pas associé à quelque chose de précis techniquement</strong>. Cela étant, communément, <strong>le farming consiste en général à investir du temps ou de l’argent dans l’espoir d’une récompense ultérieure valorisable</strong>. C’est donc pour cela que l’on parle de “farmers” de airdrops (investissement de temps), ou bien de farming comme celui d’Archethic (investissement / immobilisation de capital).</p>
+<blockquote>
+<p><strong>Attention</strong> : le farming sur Archethic n’est pas du staking.</p>
+</blockquote>
+<h4 id="le-principe-du-farming-sur-archethic">Le principe du farming sur Archethic</h4>
+<p>Le <a href="https://swap.archethic.net/earn" target="_blank">farming</a> sur Archethic repose sur <strong>un principe simple et sain : la mise à disposition de liquidités</strong>. Cela incite les investisseurs à immobiliser leur capital pour rendre le UCO “plus liquide” ce qui veut dire : plus facilement échangeable. <strong>Les investisseurs qui jouent le jeu sont récompensés en UCO</strong>.</p>
+<p>La pool de liquidités choisie par l’équipe pour ce système est <strong>la pool aeETH/UCO</strong>. C’est donc dans cette pool que vous devrez apporter des liquidités pour pouvoir ensuite participer au farming. <strong>Techniquement : vous apportez le capital de votre choix composé de 50% de valeur en UCO et 50% de valeur en aeETH</strong>. Évidement, vous devez posséder ce capital sur votre aeWallet pour effectuer les transactions.</p>
+<blockquote>
+<p>Exemple : vous souhaitez déposer $1000 dans la pool, il vous faudra $500 de UCO (29,700 UCO au cours du 26/08/2024)  et $500 d’aeETH (0.18 ETH au cours du 26/08/2024).</p>
+</blockquote>
+<p>Lors du dépôt, vos UCO et vos aeETH sont envoyés vers la pool de liquidités et <strong>vous recevez en échange des LP tokens</strong>. Ces LP tokens sont un récépissé qui indique quelle est votre part dans la pool de liquidités. Le jour où vous voudrez récupérer votre capital, vous pourrez échanger ces LP tokens contre les UCO et les aeETH qui vous reviennent. Notez que j’ai écrit “<strong>les</strong> UCO et <strong>les</strong> aeETH” et non pas “<strong>vos</strong> UCO et <strong>vos</strong> aeETH”, car lorsque vous mettez à disposition des cryptomonnaies dans une pool de liquidités les quantités de ces dernières vont changer (en fonction des échanges dans la pool elle-même). En fonction de cela, vous récupérerez <strong>nécessairement</strong> des quantités différentes de celles déposées. Le potentiel manque à gagner dû à cela s’appelle l’<strong>impermanent loss</strong> (IL ou perte non-permanente), vous verrez également la notion de <strong>divergent loss</strong> (DL ou perte de divergence) qui est de plus en plus utilisée.</p>
+<h4 id="le-divergent-loss--impermanent-loss">Le divergent loss (= impermanent loss)</h4>
+<p>Je vais tenter de vous l’expliquer au travers d’un exemple, mais sachez que c’est une notion compliquée à appréhender et que cet exemple simpliste comporte par nature des imprécisions.</p>
+<p>Imaginez <strong>une boutique qui permet l’échange de pommes contre des bananes et inversement</strong>. La boutique possède :</p>
+<ul>
+<li>100 bananes pour un équivalent de 500€.</li>
+<li>400 pommes pour un équivalent de 500€.</li>
+<li>Mathématiquement : 1 banane vaut donc 4 pommes.</li>
+<li>1 banane se valorise donc 5€.</li>
+<li>1 pomme se valorise donc 1,25€.</li>
+</ul>
+<p>De votre côté, vous avez des pommes et des bananes, vous voulez en fournir à la boutique pour que ces fruits servent dans des échanges. Vous fournissez :</p>
+<ul>
+<li>25 bananes (équivalent à 125€)</li>
+<li>100 pommes (équivalent à 125€)</li>
+<li>On retrouver bien notre ratio de 50/50 en valeur</li>
+</ul>
+<p>La boutique prend vos bananes et vos pommes et vous donne un récépissé indiquant que <strong>vous posséder 20% du stock global de fruits</strong> = 250 / (1000 + 250) = 20%. Mathématiquement, et c’est le principe d’une pool de liquidités, l’équivalent en valeur d’une pomme et d’une banane n’a pas changé lors de l’ajout de vos fruits. À savoir 1 banane vaut toujours 4 pommes. La seule chose qui a changé c’est le nombre de fruits dans la boutique.</p>
+<p><strong>La boutique compte donc désormais 1250€ de fruits:</strong></p>
+<ul>
+<li>125 bananes</li>
+<li>500 pommes</li>
+<li>dont 20% ont été fournis par vous.</li>
+</ul>
+<p>Demain, <strong>M. Michu</strong> arrive avec 100 pommes et souhaite les échanger contre des bananes. Avec le taux actuel, 1 banane = 4 pommes, M. Michu peut donc échanger 100 pommes contre son équivalent en bananes soit 25 bananes. <strong>Après cet échange, la valeur globale de l’ensemble des fruits n’a pas changée mais la proportion de ces derniers a évoluée.</strong></p>
+<p>La boutique compte donc toujours 1250€ de fruits dont :</p>
+<ul>
+<li>600 pommes</li>
+<li>100 bananes</li>
+</ul>
+<p>La règle mathématique qui régit cette pool de liquidités dit que 50% de la valeur est représenté par les pommes (625€) et 50% par les bananes (625€). De ce fait :</p>
+<ul>
+<li>Une pomme vaut : 625€ / 600 ≃ 1,04€</li>
+<li>Une banane vaut : 625€ / 100 = 6,25€</li>
+</ul>
+<p>Les prix ont donc évolué.</p>
+<p>Après-demain, vous souhaitez récupérer la proportion de pommes et de bananes qui vous revient de droit. Vous allez donc à la boutique avec votre récépissé. Vous allez recevoir 20% des pommes et 20% des bananes, soit :</p>
+<ul>
+<li>20% x 600 = 120 pommes. Pour un équivalent en valeur de 120 * 1,04 ≃ 125€</li>
+<li>20% x 100 = 20 bananes. Pour un équivalent en valeur de 20 x 6,25 ≃ 125€</li>
+</ul>
+<p>Vous récupérez <strong>un équivalent en valeur de 250€</strong>. Dans notre exemple, cette valeur correspond à notre dépôt initial car nous négligeons la présence potentielle d’autres boutique de fruits ainsi que la potentielle variation de la valeur des pommes et des bananes en dehors de la boutique, mais <strong>sachez que cette valeur aurait pu être inférieure à votre dépôt initial</strong>.</p>
+<p>Seulement, <strong>si vous aviez gardé vos pommes et vos bananes sans les mettre à disposition</strong> vous auriez :</p>
+<ul>
+<li>25 bananes x 6,25€ = 156,25€</li>
+<li>100 pommes x 1,04€ = 104€</li>
+</ul>
+<p>Soit <strong>une valeur globale de 260,25€</strong>.</p>
+<p>250€ - 260,25€ = <strong>-10,25€</strong>. Ceci est ce qu’on appelle le <strong>divergent loss</strong> (ou impermanent loss). <strong>Cette valeur est forcément négative ou nulle</strong>.</p>
+<blockquote>
+<p>Par soucis de simplicité, j’ai fait une approximation sur ce dernier calcul, car nous devrions théoriquement refaire les calculs <strong>sans notre apport en fruits</strong> avant l’échange de M. Michu. <strong>Cela amplifierait davantage le divergent loss</strong>.</p>
+</blockquote>
+<p>Je suis donc en train de vous dire qu’en mettant à disposition des liquidités <strong>vous allez subir le divergent loss quoiqu’il arrive et donc perdre de la valeur</strong>. Alors pourquoi mettre à disposition ses liquidités ?</p>
+<h4 id="pourquoi-cela-peut-il-être-intéressant-">Pourquoi cela peut-il être intéressant ?</h4>
+<h5 id="dans-les-pools-de-liquidités-normales">Dans les pools de liquidités “normales”</h5>
+<p>Il y a un détail dont je n’ai pas parlé dans mon exemple : <strong>quand M. Michu vient pour échanger ses pommes, il paie une commission</strong> (qui correspondrait dans notre cas à ~1 pomme, soit 1%), et cette commission est partagée entre toutes les personnes qui mettent à disposition des pommes et des bananes. Si demain <strong>M. Michu2</strong> vient échanger des bananes contre des pommes, hop, vous percevez à nouveau une commission, etc, etc.</p>
+<p><strong>Quand vous participez à une pool de liquidités, vous cherchez à ce que les commissions que vous allez générer couvrent votre divergent loss.</strong></p>
+<h5 id="sur-archethic">Sur Archethic</h5>
+<p>Dans le cas d’Archethic, <strong>la pool de liquidités aeETH/UCO (sur laquelle s’applique le farming) n’a pas de frais de commission</strong>, donc vous ne pouvez pas espérer couvrir votre divergent loss de cette manière.</p>
+<p>À la place, Archethic a mis en place un système de récompense dit de “<strong>farming</strong>”, qui consiste en 2 étapes :</p>
+<ol>
+<li><strong>Mettre à disposition des liquidités</strong> dans la pool <strong>aeETH/UCO</strong> (toujours 50/50 en valeur apportée). Vous recevez un nombre de LP tokens qui correspond à votre part dans la pool de liquidités.</li>
+<li><strong>Immobiliser les LP tokens reçus</strong> pour la période de votre choix (7 niveaux possibles allant de 1 semaine à 3 ans). Évidement <strong>plus la période de verrouillage est longue plus le rendement annuel est élevé</strong>.</li>
+</ol>
+<p>Les 2 principaux avantages de ce système de récompenses sont les suivants :</p>
+<ul>
+<li>Stabiliser l’écosystème en <strong>incitant les investisseurs à immobiliser leur capital</strong> pendant des périodes fixes et connues de tous évitant ainsi les mouvements réguliers de capitaux et le day-trading.</li>
+<li>Disposer d’un <strong>important volume de liquidités pour les nouveaux entrants</strong> qui peuvent donc plus facilement investir sur le projet par l’intermédiaire du UCO.</li>
+</ul>
+<h4 id="comment-farmer-">Comment farmer ?</h4>
+<p>Tout se passe sur le DEX d’Archethic, dans l’<a href="https://swap.archethic.net/earn" target="_blank">onglet Earn</a>.</p>
+<ol>
+<li>Utilisez l’encart “<strong>Add liquidity</strong>” pour déposez des aeETH et des UCO dans la pool afin de recevoir des LP tokens. N’oubliez pas : vous devrez nécessairement déposer 50/50 en valeur.</li>
+<li>Une fois en possession de vos LP tokens, utilisez l’encart “<strong>Earn more UCO</strong>” pour les immobiliser pour la période de votre choix et gagner des récompenses.</li>
+</ol>
+<p><img src="images/uco_farming.png" alt="UCO farming"></p>
+<p>Enfin, quelques notions qui pourraient faciliter votre compréhension du sujet :</p>
+<ul>
+<li>APR : Annuel Percentage Rate. Cela correspond au <strong>rendement annualisé estimé sur votre capital immobilisé.</strong> Si vous immobilisez $1000, que l’APR est de 100%, vous gagnerez théoriquement $1000 en UCO/an.</li>
+<li>Une fois en farming, vos LP tokens ainsi que les récompenses associées sont <strong>verrouillés jusqu’à la fin de la période choisie</strong>.</li>
+<li>Les récompenses accumulées pendant la période de farm ne sont pas ré-investies, mais pourront l’être à la fin de la période de blocage (à condition d’apporter l’équivalent en aeETH évidement).</li>
+<li>Plus il y a de liquidités en farm, plus l’APR baisse.</li>
+<li>L’évolution des cours de l’aeETH et du UCO font évoluer l’APR à la hausse comme à la baisse étant donné que ce dernier est calculé sur une base en $.</li>
+</ul>
+<p>Si vous voulez en savoir encore plus sur les récompenses de farming, je vous inviter à consulter ce <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">tableau de bord</a> développé par un membre de la communauté.</p>
+
+    </div>
+  </div>
+</body>
+
+</html>
