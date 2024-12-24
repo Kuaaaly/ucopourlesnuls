@@ -1,4 +1,4 @@
-﻿# ProBit AMA (25/10/2024)
+# ProBit AMA (25/10/2024)
 
 ## Part 1
 ***Je ne vous fais pas l'affront de vous présenter Sébastien Dupont et Nilesh Patankar (Archethic). Ils sont accompagnés de Surbhi (ProBit) pour cette AMA texte sur Telegram. Démarrage de l'AMA le 25/10/2024 à 9:00 (Paris)***
@@ -133,5 +133,5 @@ How can I buy your tokens?
 > A: Haha, good question! And I’m sure our friends at Probit will appreciate the reminder. Since you’re here on Probit’s Telegram, you’re in the perfect spot to grab some $UCO—the token is available for purchase right here on Probit Exchange!
 > But just in case a bot snuck in here, let me clarify: Yes, $UCO is indeed available on Probit and some other exchanges, and it’s ready for you whenever you are!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NzgyNTAwXX0=
+eyJoaXN0b3J5IjpbLTE3NTY4MTU2N119
 -->
