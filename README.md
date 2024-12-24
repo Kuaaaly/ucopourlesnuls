@@ -10,10 +10,10 @@ Ce guide est totalement ouvert à la collaboration, et pour cette raison, il est
 # Comment contribuer au guide ?
 1. Faites un fork du guide.
 2. Utilisez ensuite [StackEdit](https://stackedit.io/app#) et synchronisez le fichier que vous souhaitez modifier via votre repertoire précédemment forké.
-<p><img width="425" alt="image" src="https://github.com/user-attachments/assets/6333c6cf-33fb-4055-a4a1-eecba2625399" /></p>
+</br><img width="425" alt="image" src="https://github.com/user-attachments/assets/6333c6cf-33fb-4055-a4a1-eecba2625399" />
 4. Faites les modifications que vous désirez.
 5. Synchroniser le fichier modifié avec votre repo en cliquant simplement sur l'icône prévu à cet effet.
-<p><img width="128" alt="image" src="https://github.com/user-attachments/assets/097de2d4-08fd-45b1-9d66-f12dc0b3cfa8" /></p>
+</br><img width="128" alt="image" src="https://github.com/user-attachments/assets/097de2d4-08fd-45b1-9d66-f12dc0b3cfa8" />
 7. Faites une [pull request](https://github.com/Kuaaaly/ucopourlesnuls/pulls) via Github pour proposer vos changements qui seront ensuite revus par l'équipe avant publication et déploiement sur le mainnet d'Archethic.
 
 L'équipe vous remercie d'avance pour vos futures contributions.
