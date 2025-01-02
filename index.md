@@ -276,8 +276,9 @@ Enfin, quelques notions qui pourraient faciliter votre compréhension du sujet :
 
 Si vous voulez en savoir encore plus sur les récompenses de farming, je vous inviter à consulter ce <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">tableau de bord</a> développé par un membre de la communauté.
 
-### Airdrop
+### Airdrop 
 Bon. Quand il faut y aller, il faut y aller. Pour commencer : qu'est ce que le farming ? Désolé de vous décevoir, mais en l'état, dans l'écosystème crypto, **ce mot est un fourre-tout qui n'est pas associé à quelque chose de précis techniquement**. Cela étant, communément, **le farming consiste en général à investir du temps ou de l'argent dans l'espoir d'une récompense ultérieure valorisable**. C'est donc pour cela que l'on parle de "farmers" de airdrops (investissement de temps), ou bien de farming comme celui d'Archethic (investissement / immobilisation de capital).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNDU2MzE1LC00ODU3MTQ1NjJdfQ==
+eyJoaXN0b3J5IjpbLTExNTk5NzI3OTksNTYxNDU2MzE1LC00OD
+U3MTQ1NjJdfQ==
 -->
