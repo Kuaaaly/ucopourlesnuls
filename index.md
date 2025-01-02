@@ -290,6 +290,7 @@ Pour cela, il vous faut:
 - Aller sur la page dédiée à l'airdrop [ici](https://www.archethic.net/uco-airdrop)
 - Saisir une adresse email valide dans la section prévue à cet effet
 - Cliquer sur le bouton "Join now"
+
 ![email ColdWallet](images/EmailAddressColdWallet.png)
 
 **Note**: En vous inscrivant, vous recevrez des mises à jour sur l'avancement du portefeuille avant tout le monde.
@@ -307,6 +308,6 @@ Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](htt
 
 En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDA4NzI0MiwtNTQ4ODg4MjE5LDU2MT
-Q1NjMxNSwtNDg1NzE0NTYyXX0=
+eyJoaXN0b3J5IjpbLTk4NjgyNzI5MiwtNzA0MDg3MjQyLC01ND
+g4ODgyMTksNTYxNDU2MzE1LC00ODU3MTQ1NjJdfQ==
 -->
