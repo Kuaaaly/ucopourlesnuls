@@ -286,7 +286,9 @@ Pour référence, le prix le plus élevé atteint par le UCO jusqu'à présent e
 Pour être éligible à cet airdrop, deux étapes sont nécessaires :
 
 1. **Rejoindre la liste d'attente du Cold Wallet d'Archethic** :
-En vous inscrivant, vous recevrez des mises à jour sur l'avancement du portefeuille avant tout le monde. Pour vous inscrire c'est [ici](https://www.archethic.net/uco-airdrop) en  
+En vous inscrivant, vous recevrez des mises à jour sur l'avancement du portefeuille avant tout le monde. Pour vous inscrire c'est simple, il vous faut:
+- Aller sur la page dédiée à l'airdrop [ici](https://www.archethic.net/uco-airdrop)
+- Saisir l'adre
 
 2. **Soutenir l'écosystème Archethic et gagner des récompenses** : 
 Participez au programme de revenus passifs en ajoutant des liquidités au pool aeETH/UCO, puis en stakant vos tokens de pool de liquidité (LP). Plus vous fournissez de liquidités, plus votre multiplicateur dans l'airdrop sera élevé. 
@@ -297,6 +299,6 @@ Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](htt
 
 En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODE3MzEzOSwtNTQ4ODg4MjE5LDU2MT
-Q1NjMxNSwtNDg1NzE0NTYyXX0=
+eyJoaXN0b3J5IjpbNDE5OTU1OTI0LC01NDg4ODgyMTksNTYxND
+U2MzE1LC00ODU3MTQ1NjJdfQ==
 -->
