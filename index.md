@@ -27,7 +27,7 @@ Les objectifs de ce guide sont au nombre de 3 :
 - <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">Tableau de bord farming</a> (par @stoik25)
 - <a href="https://www.youtube.com/@UniversArchethic-rv6oe" target="_blank">Chaîne YouTube "Univers Archethic"</a> (par Arnolito)
 - <a href="https://www.archethic.net/wallet.html" target="_blank">aeWallet</a> - <a href="https://swap.archethic.net/swap" target="_blank">aeSwap</a> - <a href="https://bridge.archethic.net/bridge" target="_blank">aeBridge</a> - <a href="https://migration-uco.archethic.net/" target="_blank">Migration UCO v1 vers v2</a> - <a href="https://swap.archethic.net/earn" target="_blank">Farming</a> (outils officiels Archethic)
-- [Résumé de l'AMA avec ProBit du 25/10/2024]()
+- [Résumé de l'AMA avec ProBit du 25/10/2024] par Kuaaaly (https://ucopourlesnuls.fr/probit-ama.html)
 
 ## Vocabulaire indispensable
 - **Smart Contract** : en français, contrats intelligents. Vous pouvez imaginer que certaines blockchains sont d'énormes ordinateurs. **Les smarts contracts sont simplement des logiciels sur ces ordinateurs, visibles et utilisables par tous.** Toutes les blockchains ne permettent pas de déployer des smart contracts. Ethereum est la blockchain la plus connue qui permet de le faire, Archethic supporte également les smart contracts. **Tous les outils de la DeFi sont basés sur des smart contracts** (DEX, bridge, etc).
@@ -272,5 +272,5 @@ Enfin, quelques notions qui pourraient faciliter votre compréhension du sujet :
 
 Si vous voulez en savoir encore plus sur les récompenses de farming, je vous inviter à consulter ce <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">tableau de bord</a> développé par un membre de la communauté.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDE5MTEzMiwtNDg1NzE0NTYyXX0=
+eyJoaXN0b3J5IjpbLTYyMDY0MzAxNywtNDg1NzE0NTYyXX0=
 -->
