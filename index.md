@@ -297,7 +297,7 @@ Pour cela, il vous faut:
 2. **Soutenir l'écosystème Archethic et gagner des récompenses** : 
 Participez au programme de revenus passifs en ajoutant des liquidités au pool ETH/UCO, puis en stakant vos tokens de pool de liquidité (LP). Plus vous fournissez de liquidités, plus votre multiplicateur dans l'airdrop sera élevé. 
 
-Autrement dit il faut participer au farming sur Archethic, si vous ne savez pas ce que sait il suffit de suivre le 
+Autrement dit il faut participer au farming sur Archethic, pour savoir ce qu'est le farming sur Archethic vous pouvez lire la section farming ici. lessi vous ne savez pas ce que c'est il suffit de suivre le 
 
 Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](https://www.archethic.net/uco-airdrop).
 
@@ -305,6 +305,6 @@ Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](htt
 
 En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjczMDcxNywtNTQ4ODg4MjE5LDU2MT
-Q1NjMxNSwtNDg1NzE0NTYyXX0=
+eyJoaXN0b3J5IjpbLTE4ODg5NjQ2MzQsLTU0ODg4ODIxOSw1Nj
+E0NTYzMTUsLTQ4NTcxNDU2Ml19
 -->
