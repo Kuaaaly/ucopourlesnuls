@@ -12,7 +12,7 @@
 >   
 >**Mise à jour le 02/01/2025**
 >   - Ajout d'un lien vers la page de l'AMA d'Archethic avec ProBit du 25/10/2024
->   - Ajout de la 
+>   - Ajout de la section "Airdrop"
 
 ## Préambule
 
@@ -275,6 +275,8 @@ Enfin, quelques notions qui pourraient faciliter votre compréhension du sujet :
 - L'évolution des cours de l'aeETH et du UCO font évoluer l'APR à la hausse comme à la baisse étant donné que ce dernier est calculé sur une base en $.
 
 Si vous voulez en savoir encore plus sur les récompenses de farming, je vous inviter à consulter ce <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">tableau de bord</a> développé par un membre de la communauté.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTA0NjI2MywtNDg1NzE0NTYyXX0=
+eyJoaXN0b3J5IjpbLTE5NDU5OTQ0NSwtNDg1NzE0NTYyXX0=
 -->
