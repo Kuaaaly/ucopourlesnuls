@@ -284,7 +284,8 @@ Pour référence, le prix le plus élevé atteint par le UCO jusqu'à présent e
 #### Comment participer à l'airdrop ?
 
 Pour être éligible à cet airdrop, deux étapes sont nécessaires :
-1. **Rejoindre la liste d'attente du portefeuille froid biométrique** :
+
+1. **Rejoindre la liste d'attente du Cold Wallet d'Archethic** :
 En vous inscrivant, vous recevrez des mises à jour sur l'avancement du portefeuille avant tout le monde.
 
 2. **Soutenir l'écosystème Archethic et gagner des récompenses** : 
@@ -296,6 +297,6 @@ Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](htt
 
 En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MjQ4ODE3LC01NDg4ODgyMTksNTYxND
+eyJoaXN0b3J5IjpbOTU1NjI1MzAwLC01NDg4ODgyMTksNTYxND
 U2MzE1LC00ODU3MTQ1NjJdfQ==
 -->
