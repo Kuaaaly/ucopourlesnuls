@@ -299,7 +299,7 @@ Participez au programme de revenus passifs en ajoutant des liquidités au pool E
 Autrement dit il faut participer au farming sur Archethic.
 
 Qu'est ce que le farming sur Archethic ? Relire la section [farming](### Farming).
-Comment participer au farming sur Archethic ? Relire la section Comment farmer ?
+Comment participer au farming sur Archethic ? Relire la section [Comment farmer ?](#### Comment farmer ?)
 
 Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](https://www.archethic.net/uco-airdrop).
 
@@ -307,6 +307,6 @@ Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](htt
 
 En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDEyODI1MiwtNTQ4ODg4MjE5LDU2MT
+eyJoaXN0b3J5IjpbLTcwNDA4NzI0MiwtNTQ4ODg4MjE5LDU2MT
 Q1NjMxNSwtNDg1NzE0NTYyXX0=
 -->
