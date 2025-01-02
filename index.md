@@ -10,6 +10,8 @@
 >   - Section "Sortir de Zebitex" archivée
 >   - Relecture complète & mise à jour des liens pour tenir compte des évolutions de l'écosystème.
 
+
+
 ## Préambule
 
 *Ce guide n'est pas un guide officiel Archethic. Les guides officiels se trouvent dans le <a href="https://wiki.archethic.net/" target="_blank">Knowledge Center</a> d'Archethic.*
@@ -270,6 +272,7 @@ Enfin, quelques notions qui pourraient faciliter votre compréhension du sujet :
 - L'évolution des cours de l'aeETH et du UCO font évoluer l'APR à la hausse comme à la baisse étant donné que ce dernier est calculé sur une base en $.
 
 Si vous voulez en savoir encore plus sur les récompenses de farming, je vous inviter à consulter ce <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">tableau de bord</a> développé par un membre de la communauté.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTcxNDU2Ml19
+eyJoaXN0b3J5IjpbLTE3NDc3ODI3NzYsLTQ4NTcxNDU2Ml19
 -->
