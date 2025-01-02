@@ -11,7 +11,8 @@
 >   - Relecture complète & mise à jour des liens pour tenir compte des évolutions de l'écosystème.
 >   
 >**Mise à jour le 02/01/2025**
->   - Ajout
+>   - Ajout d'un lien vers la page de l'AMA d'Archethic avec ProBit du 25/10/2024
+>   - Ajout de la 
 
 ## Préambule
 
@@ -275,5 +276,5 @@ Enfin, quelques notions qui pourraient faciliter votre compréhension du sujet :
 
 Si vous voulez en savoir encore plus sur les récompenses de farming, je vous inviter à consulter ce <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">tableau de bord</a> développé par un membre de la communauté.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU1OTMzNTYsLTQ4NTcxNDU2Ml19
+eyJoaXN0b3J5IjpbMTE0OTA0NjI2MywtNDg1NzE0NTYyXX0=
 -->
