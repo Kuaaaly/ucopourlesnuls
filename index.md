@@ -283,8 +283,15 @@ Pour référence, le prix le plus élevé atteint par le UCO jusqu'à présent e
 
 #### Comment participer à l'airdrop ?
 
-Bon. Quand il faut y aller, il faut y aller. Pour commencer : qu'est ce que le farming ? Désolé de vous décevoir, mais en l'état, dans l'écosystème crypto, **ce mot est un fourre-tout qui n'est pas associé à quelque chose de précis techniquement**. Cela étant, communément, **le farming consiste en général à investir du temps ou de l'argent dans l'espoir d'une récompense ultérieure valorisable**. C'est donc pour cela que l'on parle de "farmers" de airdrops (investissement de temps), ou bien de farming comme celui d'Archethic (investissement / immobilisation de capital).
+Pour être éligible à cet airdrop, deux étapes sont nécessaires :
+1. **Rejoindre la liste d'attente du portefeuille froid biométrique** :
+En vous inscrivant, vous recevrez des mises à jour sur l'avancement du portefeuille avant tout le monde.
+
+2. **Soutenir l'écosystème Archethic et gagner des récompenses** : 
+Participez au programme de revenus passifs en ajoutant des liquidités au pool aeETH/UCO, puis en stakant vos tokens de pool de liquidité (LP). Plus vous fournissez de liquidités, plus votre multiplicateur dans l'airdrop sera élevé. 
+
+Pour plus de détails et pour vous inscrire, visitez la page officielle de l'airdrop d'Archethic. *Note* : Une fonctionnalité est en cours de développement pour afficher en temps réel votre statut de participation et le montant de la récompense à laquelle vous avez droit. --- En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODg4ODIxOSw1NjE0NTYzMTUsLTQ4NT
-cxNDU2Ml19
+eyJoaXN0b3J5IjpbLTIzMjMyMzQyOCwtNTQ4ODg4MjE5LDU2MT
+Q1NjMxNSwtNDg1NzE0NTYyXX0=
 -->
