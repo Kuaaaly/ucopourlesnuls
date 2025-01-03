@@ -14,6 +14,8 @@
 >   - Ajout d'un lien vers la page de l'AMA d'Archethic avec ProBit du 25/10/2024
 >   - Ajout de la section "Airdrop"
 
+
+
 ## Préambule
 
 *Ce guide n'est pas un guide officiel Archethic. Les guides officiels se trouvent dans le <a href="https://wiki.archethic.net/" target="_blank">Knowledge Center</a> d'Archethic.*
@@ -307,8 +309,7 @@ Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](htt
 **Note** : Une fonctionnalité est en cours de développement pour afficher en temps réel votre statut de participation et le montant de la récompense à laquelle vous avez droit.
 
 En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQxNTU3NDAsLTk4NjgyNzI5MiwtNz
-A0MDg3MjQyLC01NDg4ODgyMTksNTYxNDU2MzE1LC00ODU3MTQ1
-NjJdfQ==
+eyJoaXN0b3J5IjpbLTE3NDc3ODI3NzYsLTQ4NTcxNDU2Ml19
 -->
