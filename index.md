@@ -9,6 +9,10 @@
 >   - Ajout d'une page [d'archives](archives.html)
 >   - Section "Sortir de Zebitex" archivée
 >   - Relecture complète & mise à jour des liens pour tenir compte des évolutions de l'écosystème.
+>   
+>**Mise à jour le 02/01/2025**
+>   - Ajout d'un lien vers la page de l'AMA d'Archethic avec ProBit du 25/10/2024
+>   - Ajout de la section "Airdrop"
 
 
 
@@ -29,6 +33,7 @@ Les objectifs de ce guide sont au nombre de 3 :
 - <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">Tableau de bord farming</a> (par @stoik25)
 - <a href="https://www.youtube.com/@UniversArchethic-rv6oe" target="_blank">Chaîne YouTube "Univers Archethic"</a> (par Arnolito)
 - <a href="https://www.archethic.net/wallet.html" target="_blank">aeWallet</a> - <a href="https://swap.archethic.net/swap" target="_blank">aeSwap</a> - <a href="https://bridge.archethic.net/bridge" target="_blank">aeBridge</a> - <a href="https://migration-uco.archethic.net/" target="_blank">Migration UCO v1 vers v2</a> - <a href="https://swap.archethic.net/earn" target="_blank">Farming</a> (outils officiels Archethic)
+- <a href="https://ucopourlesnuls.fr/probit-ama.html" target="_blank">Résumé de l'AMA d'Archethic avec ProBit du 25/10/2024"</a> (par Kuaaaly)
 
 ## Vocabulaire indispensable
 - **Smart Contract** : en français, contrats intelligents. Vous pouvez imaginer que certaines blockchains sont d'énormes ordinateurs. **Les smarts contracts sont simplement des logiciels sur ces ordinateurs, visibles et utilisables par tous.** Toutes les blockchains ne permettent pas de déployer des smart contracts. Ethereum est la blockchain la plus connue qui permet de le faire, Archethic supporte également les smart contracts. **Tous les outils de la DeFi sont basés sur des smart contracts** (DEX, bridge, etc).
@@ -272,6 +277,38 @@ Enfin, quelques notions qui pourraient faciliter votre compréhension du sujet :
 - L'évolution des cours de l'aeETH et du UCO font évoluer l'APR à la hausse comme à la baisse étant donné que ce dernier est calculé sur une base en $.
 
 Si vous voulez en savoir encore plus sur les récompenses de farming, je vous inviter à consulter ce <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">tableau de bord</a> développé par un membre de la communauté.
+
+### Airdrop UCO
+
+Archethic a annoncé un airdrop de 100 000 000 $ en tokens UCO. Cette distribution aura lieu dès que le prix du token UCO atteindra 1$ .
+Pour référence, le prix le plus élevé atteint par le UCO jusqu'à présent est de 0,73 $
+
+#### Comment participer à l'airdrop ?
+
+Pour être éligible à cet airdrop, deux étapes sont nécessaires :
+
+1. **Rejoindre la liste d'attente du Cold Wallet d'Archethic** :
+Pour cela, il vous faut:
+- Aller sur la page dédiée à l'airdrop [ici](https://www.archethic.net/uco-airdrop)
+- Saisir une adresse email valide dans la section prévue à cet effet
+- Cliquer sur le bouton "Join now"
+
+![email ColdWallet](images/EmailAddressColdWallet.png)
+
+**Note**: En vous inscrivant, vous recevrez des mises à jour sur l'avancement du portefeuille avant tout le monde.
+
+2. **Soutenir l'écosystème Archethic et gagner des récompenses** : 
+Participez au programme de revenus passifs en ajoutant des liquidités au pool ETH/UCO, puis en stakant vos tokens de pool de liquidité (LP). Plus vous fournissez de liquidités, plus votre multiplicateur dans l'airdrop sera élevé. 
+Autrement dit il faut participer au farming sur Archethic.
+
+Qu'est ce que le farming sur Archethic ? Relire la section [farming](##Farming).
+Comment participer au farming sur Archethic ? Relire la section [Comment farmer ?](###Comment-farmer-?)
+
+Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](https://www.archethic.net/uco-airdrop).
+
+**Note** : Une fonctionnalité est en cours de développement pour afficher en temps réel votre statut de participation et le montant de la récompense à laquelle vous avez droit.
+
+En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3NDc3ODI3NzYsLTQ4NTcxNDU2Ml19
