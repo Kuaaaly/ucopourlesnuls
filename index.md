@@ -272,7 +272,7 @@ Si vous voulez en savoir encore plus sur les récompenses de farming, je vous in
 
 ### Airdrop UCO
 
-Archethic a annoncé un <a hrel="https://www.archethic.net/uco-airdrop" target="_blank">airdrop</a> de __\$100,000,000__ en UCO. Cette distribution aura lieu dès que le prix du UCO atteindra \$1. Pour référence, le prix le plus élevé atteint par le UCO jusqu'à présent est de <a hrel="https://coinmarketcap.com/currencies/archethic/" target="_blank">\$0.73</a>.
+Archethic a annoncé un <a href="https://www.archethic.net/uco-airdrop" target="_blank">airdrop</a> de __\$100,000,000__ en UCO. Cette distribution aura lieu dès que le prix du UCO atteindra \$1. Pour référence, le prix le plus élevé atteint par le UCO jusqu'à présent est de <a href="https://coinmarketcap.com/currencies/archethic/" target="_blank">\$0.73</a>.
 
 #### Comment participer à l'airdrop ?
 
@@ -282,7 +282,7 @@ Pour être éligible à cet airdrop, deux étapes sont nécessaires :
 
 ![email ColdWallet](images/email_address_cold_wallet.png)
 
-2. **Participer au [farming](##Farming) sur Archethic** : 
+2. **Participer au [farming](#farming) sur Archethic** : 
 *Note: plus vous fournissez de liquidités, plus votre multiplicateur dans l'airdrop sera élevé.*
 
 > **Remarque** : Une fonctionnalité est en cours de développement pour afficher en temps réel votre statut de participation et le montant de la récompense à laquelle vous avez droit.
