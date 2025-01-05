@@ -1,20 +1,11 @@
 # UCO pour les nuls
 
-> **Dernière mise à jour 24/10/2024**
->   - Refonte partie "**d'€ à UCO**" (<a href="archives.html#d€-à-uco" target="_blank">archivage</a> de l'ancienne)
->   - Quelques correction mineures.
+> **Dernière mise à jour (le 05/01/2025)**
+>   - Ajout d'un lien vers la page de l'AMA d'Archethic avec ProBit du 25/10/2024.
+>   - Ajout de la section "Airdrop".
+>   - Ajout d'un historique des mises à jour.
 >
->**Mise à jour le 09/10/2024**
->   - Ajout de la section "Migration"
->   - Ajout d'une page [d'archives](archives.html)
->   - Section "Sortir de Zebitex" archivée
->   - Relecture complète & mise à jour des liens pour tenir compte des évolutions de l'écosystème.
->   
->**Mise à jour le 02/01/2025**
->   - Ajout d'un lien vers la page de l'AMA d'Archethic avec ProBit du 25/10/2024
->   - Ajout de la section "Airdrop"
-
-
+> *[Accéder à l'historique des mises à jour](history.html)*
 
 ## Préambule
 
@@ -30,7 +21,8 @@ Les objectifs de ce guide sont au nombre de 3 :
 - Enfin, vous partager des notions pratiques vous permettant notamment d'**investir et de s'investir dans Archethic de manière autonome** en respectant des bonnes pratiques.
 
 ## Liens utiles
-- <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">Tableau de bord farming</a> (par @stoik25)
+- Section d'[archives](archives.html) (anciennes parties du guide non mises à jour).
+- <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">Tableau de bord farming</a> (par Stoik)
 - <a href="https://www.youtube.com/@UniversArchethic-rv6oe" target="_blank">Chaîne YouTube "Univers Archethic"</a> (par Arnolito)
 - <a href="https://www.archethic.net/wallet.html" target="_blank">aeWallet</a> - <a href="https://swap.archethic.net/swap" target="_blank">aeSwap</a> - <a href="https://bridge.archethic.net/bridge" target="_blank">aeBridge</a> - <a href="https://migration-uco.archethic.net/" target="_blank">Migration UCO v1 vers v2</a> - <a href="https://swap.archethic.net/earn" target="_blank">Farming</a> (outils officiels Archethic)
 - <a href="https://ucopourlesnuls.fr/probit-ama.html" target="_blank">Résumé de l'AMA d'Archethic avec ProBit du 25/10/2024"</a> (par Kuaaaly)
@@ -270,7 +262,7 @@ Tout se passe sur le DEX d'Archethic, dans l'<a href="https://swap.archethic.net
 ![UCO farming](images/uco_farming.png)
 
 Enfin, quelques notions qui pourraient faciliter votre compréhension du sujet :
-- APR : Annuel Percentage Rate. Cela correspond au **rendement annualisé estimé sur votre capital immobilisé.** Si vous immobilisez $1000, que l'APR est de 100%, vous gagnerez théoriquement $1000 en UCO/an.
+- APR : Annuel Percentage Rate. Cela correspond au **rendement annualisé estimé sur votre capital immobilisé.** Si vous immobilisez \$1000, que l'APR est de 100%, vous gagnerez théoriquement \$1000 en UCO/an.
 - Une fois en farming, vos LP tokens ainsi que les récompenses associées sont **verrouillés jusqu'à la fin de la période choisie**.
 - Les récompenses accumulées pendant la période de farm ne sont pas ré-investies, mais pourront l'être à la fin de la période de blocage (à condition d'apporter l'équivalent en aeETH évidement).
 - Plus il y a de liquidités en farm, plus l'APR baisse.
@@ -280,36 +272,19 @@ Si vous voulez en savoir encore plus sur les récompenses de farming, je vous in
 
 ### Airdrop UCO
 
-Archethic a annoncé un airdrop de 100 000 000 $ en tokens UCO. Cette distribution aura lieu dès que le prix du token UCO atteindra 1$ .
-Pour référence, le prix le plus élevé atteint par le UCO jusqu'à présent est de 0,73 $
+Archethic a annoncé un <a hrel="https://www.archethic.net/uco-airdrop" target="_blank">airdrop</a> de __\$100,000,000__ en UCO. Cette distribution aura lieu dès que le prix du UCO atteindra \$1. Pour référence, le prix le plus élevé atteint par le UCO jusqu'à présent est de <a hrel="https://coinmarketcap.com/currencies/archethic/" target="_blank">\$0.73</a>.
 
 #### Comment participer à l'airdrop ?
 
 Pour être éligible à cet airdrop, deux étapes sont nécessaires :
 
-1. **Rejoindre la liste d'attente du Cold Wallet d'Archethic** :
-Pour cela, il vous faut:
-- Aller sur la page dédiée à l'airdrop [ici](https://www.archethic.net/uco-airdrop)
-- Saisir une adresse email valide dans la section prévue à cet effet
-- Cliquer sur le bouton "Join now"
+1. **Rejoindre la liste d'attente du cold wallet d'Archethic**
 
-![email ColdWallet](images/EmailAddressColdWallet.png)
+![email ColdWallet](images/email_address_cold_wallet.png)
 
-**Note**: En vous inscrivant, vous recevrez des mises à jour sur l'avancement du portefeuille avant tout le monde.
+2. **Participer au [farming](##Farming) sur Archethic** : 
+*Note: plus vous fournissez de liquidités, plus votre multiplicateur dans l'airdrop sera élevé.*
 
-2. **Soutenir l'écosystème Archethic et gagner des récompenses** : 
-Participez au programme de revenus passifs en ajoutant des liquidités au pool ETH/UCO, puis en stakant vos tokens de pool de liquidité (LP). Plus vous fournissez de liquidités, plus votre multiplicateur dans l'airdrop sera élevé. 
-Autrement dit il faut participer au farming sur Archethic.
-
-Qu'est ce que le farming sur Archethic ? Relire la section [farming](##Farming).
-Comment participer au farming sur Archethic ? Relire la section [Comment farmer ?](###Comment-farmer-?)
-
-Pour plus de détails, visitez la page officielle de [l'airdrop d'Archethic](https://www.archethic.net/uco-airdrop).
-
-**Note** : Une fonctionnalité est en cours de développement pour afficher en temps réel votre statut de participation et le montant de la récompense à laquelle vous avez droit.
-
-En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc3ODI3NzYsLTQ4NTcxNDU2Ml19
--->
+> **Remarque** : Une fonctionnalité est en cours de développement pour afficher en temps réel votre statut de participation et le montant de la récompense à laquelle vous avez droit.
+>
+> En participant à cet airdrop, vous soutenez l'écosystème Archethic et augmentez vos chances de recevoir des tokens UCO supplémentaires.
