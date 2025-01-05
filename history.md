@@ -14,3 +14,6 @@
    - Ajout d'une page [d'archives](archives.html).
    - Section "Sortir de Zebitex" archivée.
    - Relecture complète & mise à jour des liens pour tenir compte des évolutions de l'écosystème.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY2MDUyMTE3OV19
+-->
