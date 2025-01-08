@@ -270,7 +270,7 @@ Enfin, quelques notions qui pourraient faciliter votre compréhension du sujet :
 
 Si vous voulez en savoir encore plus sur les récompenses de farming, je vous inviter à consulter ce <a href="https://statikformation.shinyapps.io/dashboard_farm_uco/" target="_blank">tableau de bord</a> développé par un membre de la communauté.
 
-### Airdrop UCO
+### Airdrop
 
 Archethic a annoncé un <a href="https://www.archethic.net/uco-airdrop" target="_blank">airdrop</a> de __\$100,000,000__ en UCO. Cette distribution aura lieu dès que le prix du UCO atteindra \$1. Pour référence, le prix le plus élevé atteint par le UCO jusqu'à présent est de <a href="https://coinmarketcap.com/currencies/archethic/" target="_blank">\$0.73</a>.
 
